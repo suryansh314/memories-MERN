@@ -5,7 +5,7 @@ User can:
 1. Signup/Login
 2. Google authentication
 3. Create a post
-4. Like/Comment/Delete post
+4. Like/Comment/Edit/Delete post
 5. Search posts by tags/name
 6. Navigate to different pages 
 7. Get relevant post suggestions similar to a post opened
