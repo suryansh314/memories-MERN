@@ -12,7 +12,7 @@ User can:
 
 Live run at: https://katmi-memories.netlify.app/
 
-PS: It is an old version, latest version has some bugs due to which it is not live yet.
+PS: It is an old version, latest version had some bugs after deployment due to which it is not live yet.
 
 To run front-end do `cd client-up` then `npm install` and finally `npm start`.
 
