@@ -10,7 +10,7 @@ User can:
 6. Navigate to different pages 
 7. Get relevant post suggestions similar to a post opened
 
-Live run at: https://vigorous-lalande-3f303f.netlify.app/
+Live run at: https://memoriesproject22.netlify.app/
 
 PS: Old version is deployed as of now, latest version had some bugs after deployment due to which it is not live yet.
 
